@@ -1,8 +1,9 @@
-
 <h1 align="center">Hi 👋, I'm Neha Raut</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">"Code Learner | Building My Path in Web Development"</h3>
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **Web Development | "Learning Web Frameworks | Building My Development Skills""**
+
+- 📫 How to reach me **rautneha822@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -14,3 +15,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=neharaut175&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="neharaut175" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=neharaut175&show_icons=true&locale=en&theme=tokyonight" alt="neharaut175" /></p>
+
