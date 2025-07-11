@@ -1,7 +1,7 @@
 ![MasterHead](https://github.com/neharaut175/neharaut175/blob/main/github-header-image%20(2).png?raw=true)
 <h1 align="center">Hi 👋, I'm Neha Raut</h1>
 <h3 align="center">"Code Learner | Building My Path in Web Development"</h3>
-<img align="right" width="400" src="">
+<img align="right" width="400" src="https://github.com/neharaut175/neharaut175/blob/main/coding-girl.gif?raw=true">
 
 - 🌱 I’m currently learning **Web Development | "Learning Web Frameworks | Building My Development Skills""**
 
